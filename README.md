@@ -1,4 +1,4 @@
-# Official TeaSpeak Non-Vocal Audio Pack
+# Official SoundPacks for TeaSpeak
 
 Welcome!
 This repository collects some sound talored by me @Falconida to be used by @WolverinDEV in its application TeaSpeak
